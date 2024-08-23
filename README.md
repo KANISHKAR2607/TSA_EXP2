@@ -1,5 +1,8 @@
+### Developed By: KANISHKAR M
+### Reg No: 212222240044
+### Date:
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date: 22/08/24
+
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
